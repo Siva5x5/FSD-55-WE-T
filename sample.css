@@ -1,0 +1,35 @@
+.res-div {
+    background-color: orangered;
+    display: flex;
+    border: 1px dotted black;
+    padding: 17px;
+    justify-content: center;
+    font-size: 100px;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    }
+
+    .res-div_2 {
+        display: flex;
+        border: 1px dotted black;
+        padding: 17px;
+        justify-content: center;
+        font-size: 100px;
+        margin-left: 25%;
+        margin-right: 25%;
+        color: navy;
+      }
+
+        .res-div_3 {
+            background-color: green;
+            display: flex;
+            border: 1px dotted black;
+            padding: 17px;
+            justify-content: center;
+            font-size: 100px;
+            margin-left: 25%;
+            margin-right: 25%;
+            color: white;
+            }
